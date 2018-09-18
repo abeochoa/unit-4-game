@@ -1,0 +1,117 @@
+body{
+    background-color: lightblue;
+}
+#titleBox{
+    height: 150px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    border:2px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+#title{
+    margin-top: 50px;
+}
+#mainBox{
+    width: 50%;
+    margin: auto;
+    background-color:lightslategray;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+}
+#instructionBox{
+    width: 87%;
+    margin: auto;
+    background-color: rgb(77, 156, 230);
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.instructions{
+    margin: auto;
+    width: 65%;;
+}
+#smallBox1{
+    width: 90%;
+    margin: auto;
+}
+
+#tinyBox1{
+    float: right;
+    width: 70%;
+    height: 50%;
+}
+#gem1Box{
+    background-color: white;
+    float: left;
+    margin-bottom: 6%;
+    border: 5px solid black;
+    border-radius: 5px;
+}
+#gem2Box{
+    background-color: white;
+    float: right;
+    margin-bottom: 6%;
+    border: 5px solid black;
+    border-radius: 5px;
+}
+#tinyBox2{
+    float: right;
+    width: 70%;
+    height: 50%;
+}
+#gem3Box{
+    background-color: white;
+    float: left;
+    margin-top: 6%;
+    border: 5px solid black;
+    border-radius: 5px;
+}
+#gem4Box{
+    background-color: white;
+    float: right;
+    margin-top: 6%;
+    border: 5px solid black;
+    border-radius: 5px;
+}
+#tinyBox3{
+    width: 30%;
+}
+#ranNumBox{
+    width: 50%;
+    height: 100px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+#pointsBox{
+    width: 50%;
+    height: 100px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+}
+#scoreBox{
+    width: 50%;
+    height: 100px;
+    background-color: black ;
+    color:white;
+    border-radius: 5px;
+}
+#copyrightBox{
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+    border-radius: 5px;
+}
+#copyright{
+    padding: 15px;
+}
